@@ -1,4 +1,4 @@
-docker-puppet-yum
-=============
+centos-puppet-yum
+===
 
-Dockerfile for a container with puppet yum repository setup.
+Dockerfile with puppet yum repository.

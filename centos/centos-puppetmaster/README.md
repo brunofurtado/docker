@@ -1,4 +1,4 @@
-docker-puppetmaster
-===================
+centos-puppetmaster
+===
 
-Dockerfile for a container running a puppet master
+Dockerfile running a puppet master.

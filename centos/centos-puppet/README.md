@@ -1,4 +1,4 @@
-docker-puppet
-=============
+centos-puppet
+===
 
-Dockerfile for a container with puppet installed
+Dockerfile with puppet installed.
