@@ -1,6 +1,4 @@
-FROM devopsil/puppet:latest
-
-# from devopsil/puppet ENV PUPPET_VERSION x.x.x
+FROM bfurtado/puppet:latest
 
 RUN yum install puppet-server-$PUPPET_VERSION -y \
     && yum clean all

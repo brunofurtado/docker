@@ -1,4 +1,4 @@
-FROM devopsil/puppet-yum
+FROM bfurtado/puppet-yum
 
 ENV PUPPET_VERSION 3.7.4
 
